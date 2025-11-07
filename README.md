@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I’m Nazar 🐈  
+# Hello, I’m Nazar 🐈  
 ### Data Engineer · Data Scientist · Data Analyst  
 Real Estate • Behavioral Health • Greenfield & Brownfield IT Projects
 
