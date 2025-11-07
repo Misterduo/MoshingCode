@@ -15,10 +15,10 @@ Real Estate • Behavioral Health • Greenfield & Brownfield IT Projects
 I build robust data pipelines, analytical apps, and ML-backed insights that turn messy, real-world data into clear decisions—especially in property ops and healthcare.
 
 ## 🧰 Toolbox
-**Languages:** Python • SQL • C#  
+**Languages:** Python • SQL • R • C#  
 **Data/ETL:** Airflow • dbt • Pandas/Polars • Spark  
 **Storage:** Postgres • MSSQL • Snowflake • BigQuery  
-**Viz/Apps:** Power BI • Streamlit • Plotly • (Blazor Server)  
+**Viz/Apps:** Power BI • Streamlit • Plotly • (Blazor Server) • Tableau • SSRS • Looker • QuickSight
 **Ops:** Docker • CI/CD • Git
 
 ## 📌 Highlights
