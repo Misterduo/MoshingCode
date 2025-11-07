@@ -2,7 +2,8 @@
 <h3 align="center">A Data Engineer/Scientist/Analyst with experience in</h3>
 <h3 align="center">Real Estate, Behavioral Health and Greenfield & Brownfield IT project development</h3>
 
-- Visit my coding thoughts blog, [Moshing Code by Nazar]() to check my projects.
+<br />
+- Visit my coding thoughts blog, [Moshing Code by Nazar](https://yanjini.github.io/blog) to check my projects.
 <br />
 
 - How to reach me: moshkunnazar@gmail.com
